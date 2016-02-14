@@ -1,0 +1,28 @@
+name: Word of Mouth
+favicon: null
+layout_spectrum: 0.9955505877733231
+typography_spectrum: 0.7705437084659934
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3244932205416262
+  lightness: 0.40407611802220345
+  saturation: 0.6249155667610466
+  rhythmicContrast: 0.06471888138912618
+purpose: []
